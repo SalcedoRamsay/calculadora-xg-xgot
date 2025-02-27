@@ -1,2 +1,2 @@
 # calculadora-xg-xgot
-Calculador xG y xGOT v0.1
+Calculadora xG y xGOT version 1.0
